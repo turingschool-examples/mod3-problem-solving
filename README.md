@@ -2,10 +2,19 @@
 
 Thi repo contains a series of test suites for some interview-prep problem solving. 
 
-## Installation
-1. Clone down and `cd` into the repo. 
-2. Run `npm i`
-3. Run `npm test` to run all test suites 
-4. Run `npm run test <test file name>` to test a single problem (ex: `npm test sessionOne/bracketMatcher.test.js`)
-5. Add implementation code in a problem's implementation file (ex: `bracket-matcher.js`)
-6. Make your tests pass! 
+## Instructions:
+Below are a series of repls with code challenge promtps in them. Our goal for this morning is not to solve every problem, but to examine how we _approach_ solving the problems. 
+
+For each problem, you'll start by answering these questions / following these steps:
+
+1. What is the problem asking?
+2. What steps do I need to take to find the answer?
+3. Pseudocode out the steps to solve the problem.
+4. Try and code a solution
+5. (As you're coding:) What steps do I recognize, but don't know how to perform? How can I resolve that?
+
+## Problems:
+
+1. <a target="_blank" href="https://repl.it/@khalidwilliams/Mini-Max-Sum#main.js">Mini Max Sum </a>
+2. <a target="_blank" href="https://repl.it/@khalidwilliams/Two-Sum#main.js">Two Sum </a>
+3. <a target="_blank" href="https://repl.it/@khalidwilliams/Robot-Traversal#main.js">Robot Traversal<a>
