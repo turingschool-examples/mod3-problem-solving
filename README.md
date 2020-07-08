@@ -1,9 +1,12 @@
 # Mod 3 Problem Solving
 
-Thi repo contains a series of test suites for some interview-prep problem solving. 
+This repo contains a series of test suites for some interview-prep problem solving. 
+
+## To Start:
+Take 10 minutes to read this [article](https://medium.com/@thatPamIAm/become-a-better-problem-solver-74dc48e509ab) on breaking down problems. 
 
 ## Instructions:
-Below are a series of repls with code challenge promtps in them. Our goal for this morning is not to solve every problem, but to examine how we _approach_ solving the problems. 
+Below are a series of code sandboxes with code challenge prompts in them. Our goal for this morning is not to solve every problem, but to examine how we _approach_ solving the problems. 
 
 For each problem, you'll start by answering these questions / following these steps:
 
