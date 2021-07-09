@@ -24,5 +24,7 @@ For each problem, you'll start by answering these questions / following these st
 <!-- 3. <a target="_blank" href="https://repl.it/@khalidwilliams/Robot-Traversal#main.js">Robot Traversal<a>-->
 
 ## Take Home Challenge:
+  
+  This is an optional take home challenge that we've tried to give them sometime after the mid mod. It is an exact copy of a take home challenge that Scott received, and was given a week to complete. The first few innings we've given this, not many students have found or made the time to complete it, so we're still evaluating if/when to give this to them.
   - [Part 1](https://replit.com/@ScottErtmer/Dog-Race-1?v=1)
   - [Part 2](https://replit.com/@ScottErtmer/Dog-Race-2?v=1)
