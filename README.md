@@ -18,8 +18,11 @@ For each problem, you'll start by answering these questions / following these st
 
 ## Problems:
 
-1. <a target="_blank" href="https://replit.com/@letakeane/problemsolving-minmax">Mini Max Sum </a>
+1. <a target="_blank" href="https://repl.it/@letakeane/FairInfiniteVisitor#index.js">Mini Max Sum </a>
 2. <a target="_blank" href="https://repl.it/@khalidwilliams/Two-Sum#main.js">Two Sum </a>
 3. <a target="_blank" href="https://codesandbox.io/s/bracket-matcher-problem-fkxnw?file=/instructions.md">Bracket Matcher<a>
 <!-- 3. <a target="_blank" href="https://repl.it/@khalidwilliams/Robot-Traversal#main.js">Robot Traversal<a>-->
 
+## Take Home Challenge:
+  - [Part 1](https://replit.com/@ScottErtmer/Dog-Race-1?v=1)
+  - [Part 2](https://replit.com/@ScottErtmer/Dog-Race-2?v=1)
