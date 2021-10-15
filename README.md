@@ -18,10 +18,10 @@ For each problem, you'll start by answering these questions / following these st
 
 ## Problems:
 
-1. <a target="_blank" href="https://replit.com/@letakeane/problemsolving-minmax">Mini Max Sum </a>
-2. <a target="_blank" href="https://repl.it/@khalidwilliams/Two-Sum#main.js">Two Sum </a>
-3. <a target="_blank" href="https://codesandbox.io/s/bracket-matcher-problem-fkxnw?file=/instructions.md">Bracket Matcher<a>
-<!-- 3. <a target="_blank" href="https://repl.it/@khalidwilliams/Robot-Traversal#main.js">Robot Traversal<a>-->
+1. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-minmaxsum">Min Max Sum</a>
+2. <a target="_blank" href="https://replit.com/@kaylaewood/codingchallenge-indexsum">Index Sum</a>
+3. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-bracketlinter">Bracket Linter<a>
+3. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-robottraversal">Robot Traversal<a>
 
 ## Take Home Challenge:
   
