@@ -23,7 +23,7 @@ For each problem, you'll start by answering these questions / following these st
 3. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-bracketlinter">Bracket Linter<a>
 4. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-lettercounter">Letter Counter<a>  
 5. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-wholikesthis">Who Likes this?<a>
-6. <a target="_blank" href="hhttps://replit.com/@kaylaewood/codechallenge-teamrecord">Team's Winning Record<a>
+6. <a target="_blank" href="https://replit.com/@kaylaewood/codechallenge-teamrecord">Team's Winning Record<a>
 
 ## Take Home Challenge:
   
